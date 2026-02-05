@@ -1,11 +1,4 @@
 GARDEN is a proof-of-concept for dynamic persistence saving and loading.
 
-You can observe others gardens via the interface on the left. Note that you might have to refresh others' gardens when they make changes.
-
-You can save your own progress via the save station at the other end of the main chamber, or by waiting for the autosaver.
-
-Plants continue to grow while you're offline. Check back later to see your progress!
-
-The world will react depending on the types of plants you grow.
-
-If people like the world, I'll add more plant types and combinations.
+== Initial Release ==
+Please report any bugs or issues. You can dm me on Discord if you'd like !
