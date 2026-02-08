@@ -1,7 +1,7 @@
 == Initial Release Fixes ==
-~ Fixed harvest particles.
-~ Fixed purchasing wrong seeds.
-~ Moved the gardening tools to the shop.
-/? Attempted to fix seeds falling through floor
++ Added Japanese translations.
+~ STONE WHEAT now gives 5 aMp instead of 2.
+~ Fixed seed purchasing desync.
+~ Improved collision around shop.
 
 Please report any bugs or issues. You can dm me on Discord if you'd like !
