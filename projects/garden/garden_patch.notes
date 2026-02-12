@@ -1,7 +1,5 @@
-== Initial Release Fixes ==
+== 02/11/2026 ==
 + Added Japanese translations.
-~ STONE WHEAT now gives 5 aMp instead of 2.
-~ Fixed seed purchasing desync.
-~ Improved collision around shop.
+~ Fixed autosaving only working for instance master.
 
 Please report any bugs or issues. You can dm me on Discord if you'd like!
