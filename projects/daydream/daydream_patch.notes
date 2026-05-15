@@ -1,4 +1,8 @@
-== 05/10/2026 ==
-+ welcome interface
-+ player voice obfuscation test
-+ videoplayer
+== 05/15/2026 ==
++ added new room [ seafoam ]
++ added radio
++ new portal backend (v.2 [working on v.3 for area loading / unloading])
++ audio sectoring (v.1)
++
+
+thanks
